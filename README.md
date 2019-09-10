@@ -1,2 +1,2 @@
-# candian-federal-departments-website
+# canadian-federal-departments-website
 
